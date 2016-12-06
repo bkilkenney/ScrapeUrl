@@ -1,0 +1,5 @@
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\Lesson18\ScrapeLibrary\bin\Debug\ScrapeLibrary.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\Lesson18\ScrapeLibrary\bin\Debug\ScrapeLibrary.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\Lesson18\ScrapeLibrary\obj\Debug\ScrapeLibrary.csprojResolveAssemblyReference.cache
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\Lesson18\ScrapeLibrary\obj\Debug\ScrapeLibrary.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\Lesson18\ScrapeLibrary\obj\Debug\ScrapeLibrary.pdb
